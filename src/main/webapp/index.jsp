@@ -6,7 +6,6 @@
         Dirección IP de la máquina cliente: <%=request.getRemoteAddr()%>
 
 <h1>.:: DEVOPS 3HTP ::.</h1> 
-<p>HOLA</p>
 </body>
 
 </head>
