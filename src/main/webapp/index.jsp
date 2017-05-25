@@ -5,7 +5,7 @@
         Hora y fecha actual: <%=new java.text.SimpleDateFormat("dd/MM/yyyy HH:mm:ss").format( new java.util.Date())%>
         Dirección IP de la máquina cliente: <%=request.getRemoteAddr()%>
 
-TEST 
+<h1>PRUEBA CAMBIO HOY - TEST</h1> 
 </body>
 
 </head>
